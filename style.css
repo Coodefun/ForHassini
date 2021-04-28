@@ -1,0 +1,45 @@
+
+body{
+    background-color: greenyellow;
+}
+        p
+        {
+            color:blue;
+        }
+        h1
+        {
+            color:chocolate; 
+            background-color:darkgrey;
+                    }
+        h2
+        {
+            color:darkred;
+        }
+
+        #one
+        {
+            color:darkgreen;
+        }
+
+        #two
+        {
+            background-color: gainsboro;
+        }
+        #three
+        {
+            color:darkgreen;
+        }
+        #four
+        {
+            background-color: gainsboro;
+        }
+
+    .firstpar
+    {
+        text-decoration: underline;
+    }
+
+    .secondpar
+    {
+        text-decoration: overline;
+    }
